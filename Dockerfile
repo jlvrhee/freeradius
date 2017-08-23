@@ -17,3 +17,4 @@ EXPOSE \
     18120
 
 CMD ["radiusd","-xx","-f"]
+
